@@ -9,4 +9,4 @@ Separate sections for states, districts and for comparative analysis.
 * Updated data (till 30th oct
 * Simple GUI
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Aryanvj00/Covid-19-India-Data-Analysis/blob/main/Image/GUI.png)
