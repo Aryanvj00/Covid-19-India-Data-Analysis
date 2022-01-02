@@ -9,3 +9,4 @@ Separate sections for states, districts and for comparative analysis.
 * Updated data (till 30th oct
 * Simple GUI
 
+![alt text](http://url/to/img.png)
